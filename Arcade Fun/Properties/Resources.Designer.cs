@@ -77,14 +77,5 @@ namespace Arcade_Fun.Properties {
                 return ResourceManager.GetStream("beep_07", resourceCulture);
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
-        /// </summary>
-        internal static System.IO.UnmanagedMemoryStream hit_marker_Sound_Effect {
-            get {
-                return ResourceManager.GetStream("hit_marker_Sound_Effect", resourceCulture);
-            }
-        }
     }
 }
